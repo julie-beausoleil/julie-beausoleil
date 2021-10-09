@@ -1,16 +1,27 @@
-### Hi there 👋
+### Bienvenue sur ma page Github 👋
 
-<!--
-**julie-beausoleil/julie-beausoleil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Je suis enseignante en infographie au Centre Calixa-Lavallée. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Afin de continuer à développer mes connaissances dans le domaine du Web, je suis présentement étudiante à l'AEC en Développement Front-End au Cégep de Trois-Rivières.
+
+Nous avons apprenons plusieurs langages dont:
+  • HTML 5
+  • CSS 3
+    • SASS (en conjonction avec BEM)
+  • Javascript (Quelques bases de Typescript)
+  • PHP (avec requêtes MySQL)
+  
+  Et nous apprenons les frameworks suivants:
+    • Bootstrap (4.5 et 5.1)
+    • React JS
+    • Angular
+    • Vue.js
+    
+  En plus d'explorer les librairies Javascript et de rendre un site compatbile en PWA.
+
+Les projets sur ce repo sont des exercices scolaires et quelques petits tutoriels trouvés en ligne pour coder plus encore :)
+
+Vous pouvez me rejoindre à l'adresse courriel suivante: 
+julie.beausoleil.02@edu.cegeptr.qc.ca
+
